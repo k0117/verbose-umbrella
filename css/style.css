@@ -121,6 +121,7 @@ img {
 #info li {
   line-height: 2em;
   font-size: 20px;
+  list-style: none;
 }
 
 /* conmpany */
